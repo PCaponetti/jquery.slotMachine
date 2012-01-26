@@ -1,0 +1,116 @@
+body
+{
+	margin: 0px auto;
+	text-align: center;
+	font-family: arial;
+	font-size: 12px;
+}
+a
+{
+	color: #777;
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+img
+{
+    border: 0px;
+}
+
+#logo
+{
+    float: left;
+    margin: 2px 0px 0px 35px;
+}
+#page_wrapper
+{
+	margin: 0px auto;
+	width: 932px;
+	text-align: left;
+	padding: 0px;
+	color: #999;
+}
+td
+{
+	color: #999;
+}
+.title
+{
+}
+#header
+{
+	width: 45px;
+	height: 40px;
+}
+#content
+{
+    width: 932px;
+    padding: 0px;
+}
+.contentPadder
+{
+}
+#content H1
+{
+    font-size: 52px;
+    color: #8A0A0B;
+    font-family: Verdana;
+    text-transform: lowercase;
+    margin: 0px;
+}
+#content_bottom
+{
+    width: 932px;
+    height: 87px;
+    overflow: hidden;
+    background: transparent url('../img/content_bottom.jpg') no-repeat scroll left top;
+}
+
+.roller_container
+{
+    font-family: verdana;
+    color: #444;
+    font-size: 12px;
+    float: left;
+    border: solid 1px #ccc;
+    border-right: none;
+    height: 110px;
+    overflow: hidden;
+    background: #fff url('../img/roller_bg.gif') repeat-x scroll left top;
+}
+.roller_container_inner
+{
+}
+.roller_container ul
+{
+    float: left;
+    border-right: solid 1px #ccc;
+    width: 100px;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+}
+.roller_container ul li
+{
+    list-style: none;
+    width: 90px;
+    height: 40px;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display: block;
+}
+
+.button
+{
+    float: left;
+    margin: 0px;
+    padding: 10px;
+    background-color: #ccc;
+    border: outset 1px #000;
+    cursor: pointer;
+}
