@@ -1,3 +1,5 @@
 Fun little jquery plugin to create a slot machine on a page.
 
-Tested on Firefox 3.5, Chrome v16, couple bugs in IE still (workin on it :P)
+Tested on Firefox 3.5, Chrome v16, and IE9
+
+Would love if people could get the animation smoother and get away from using an image for the gradient (CSS3)
