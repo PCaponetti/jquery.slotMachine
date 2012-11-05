@@ -65,7 +65,6 @@ td
     width: 932px;
     height: 87px;
     overflow: hidden;
-    background: transparent url('../img/content_bottom.jpg') no-repeat scroll left top;
 }
 
 .roller_container
@@ -78,7 +77,7 @@ td
     border-right: none;
     height: 110px;
     overflow: hidden;
-    background: #fff url('../img/roller_bg.gif') repeat-x scroll left top;
+    background-color: #fff;
 }
 .roller_container_inner
 {
