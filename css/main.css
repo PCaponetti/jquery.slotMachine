@@ -68,7 +68,7 @@ td
     background: transparent url('../img/content_bottom.jpg') no-repeat scroll left top;
 }
 
-#roller_container
+.roller_container
 {
     font-family: verdana;
     color: #444;
@@ -80,10 +80,10 @@ td
     overflow: hidden;
     background: #fff url('../img/roller_bg.gif') repeat-x scroll left top;
 }
-#roller_container_inner
+.roller_container_inner
 {
 }
-#roller_container ul
+.roller_container ul
 {
     float: left;
     border-right: solid 1px #ccc;
@@ -93,7 +93,7 @@ td
     margin: 0px;
     position: relative;
 }
-#roller_container ul li
+.roller_container ul li
 {
     list-style: none;
     width: 90px;
@@ -105,7 +105,7 @@ td
     display: block;
 }
 
-#btn_shake
+.button
 {
     float: left;
     margin: 0px;
